@@ -2,6 +2,9 @@
 Hello World
 </h1>
 
+ <p align="center">
+    Olá, tudo bem? Meu nome é Bruno Venâncio, sou Nutricionista e atualmente estou aprendendo Python. 👾
+  </p>
 
 <div align="center">
   <a href="https://github.com/brunovnc">
