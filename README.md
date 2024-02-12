@@ -5,8 +5,8 @@ Bem-vindo ao meu perfil! 🔥
 
 <div align="center">
   <a href="https://github.com/brunovnc">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=brunovnc&theme=dark&mode=weekly"/>
-  <img height="180em" src="https://api.githubtrends.io/user/svg/brunovnc/langs?time_range=one_year&compact=True&theme=dark"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brunovnc&count_private=true&include_all_commits=true&show_icons=true&theme=dar&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunovnc&theme=highcontrast&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
