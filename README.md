@@ -16,7 +16,7 @@ Hello World 👋
 <div align="center" valign="top"><br>
   <img align="center" alt="vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
   <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="github" height="30" width="30" src="https://e7.pngegg.com/pngimages/490/316/png-clipart-computer-icons-github-github-icon-cat-like-mammal-carnivoran.png">
+  <img align="center" alt="github" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="trello" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg">
 </div><br>
