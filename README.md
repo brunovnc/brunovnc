@@ -2,24 +2,25 @@
 Olá, Mundo! 👋
 </h1>
 
- <p align="center">
-    Meu nome é Bruno Venâncio, sou Nutricionista e atualmente estou aprendendo Python. 👾
+ <h2>
+    Tecnologias e Ferramentas
+    </h2>
   </p>
 
-<div align="center">
-  <a href="https://github.com/brunovnc">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brunovnc&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunovnc&theme=gotham&hide_border=false&&layout=compact"/>
-  </a>
-</div>
+<h3>
+   Linguagens:
+</h3>
+<img alt="python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-<div align="center" valign="top"><br>
-  <img align="center" alt="vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
-  <img align="center" alt="python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="github" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
-  <img align="center" alt="git" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="trello" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg">
-</div><br>
+<h3>
+   Ferramentas:
+</h3>
+  <div>
+  <img alt="vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
+  <img alt="github" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
+  <img alt="git" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img alt="trello" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg">
+  </div>
 
   ##
 
