@@ -11,6 +11,7 @@
       <h3>Frameworks:</h3>
       <div>
         <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"/>
+        <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"/>
       </div>
     </div>
     <div>
